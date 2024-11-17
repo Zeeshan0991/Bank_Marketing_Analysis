@@ -26,7 +26,7 @@ The analysis focuses on identifying key factors influencing the success of marke
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Bank-Marketing-Analysis.git
+   git clone https://github.com/Zeeshan0991/Bank-Marketing-Analysis.git
    ```
 2. Install the required Python packages:
    ```bash
